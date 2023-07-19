@@ -1,0 +1,28 @@
+{
+  "offers": [
+    {
+      "city": "Hello, how are you?",
+      "country": "Welcome to the chat!",
+      "price": "3996",
+      "currency": "USD",
+      "priceText": "from",
+      "imgURL": "https://rekrutacja.webdeveloper.rtbhouse.net/files/warsaw.jpg"
+    },
+    {
+      "city": "Hello, how are you?",
+      "country": "Welcome to the chat!",
+      "price": "2958",
+      "currency": "USD",
+      "priceText": "from",
+      "imgURL": "https://rekrutacja.webdeveloper.rtbhouse.net/files/madrid.jpg"
+    },
+    {
+      "city": "Hello, how are you?",
+      "country": "Welcome to the chat!",
+      "price": "35000",
+      "currency": "USD",
+      "priceText": "from",
+      "imgURL": "https://rekrutacja.webdeveloper.rtbhouse.net/files/berlin.jpg"
+    }
+  ]
+}
